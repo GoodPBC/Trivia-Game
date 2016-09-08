@@ -1,0 +1,25 @@
+#timer {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#questionDiv {
+	margin-top: 75px;
+	color: white;
+	position: relative;
+	top: 125px;
+}
+
+#answerDiv {
+	width: 50%;
+	margin: 0 auto;
+}
+
+h4.text-center a{
+	font-size: 25px;
+	font-weight: 900;
+	text-decoration: none; 
+	color: #aba9b4;
+	font-stretch: expanded;
+
+
